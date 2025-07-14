@@ -8,8 +8,8 @@ function App() {
     <div className="">
       <Navbar />
       <div className="bg-gray-100 h-screen">
-        <Filters />
         <UrlInput />
+        <Filters />
       </div>
     </div>
   );
